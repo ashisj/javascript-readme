@@ -21,3 +21,7 @@ Welcome to the JavaScript documentation, which is divided into two main sections
 [Learn more about the JavaScript Language](./javascript.info/part3/README.md)
 
 
+## Learning Basket
+
+## Educative.io
+[Learn about Design pattern](./Educative.io/Design%20pattern/README.md)
